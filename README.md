@@ -3,7 +3,7 @@ A repository for storing and updating different Destiny 1 maps, all in a single 
 
 ## Where are the maps!?!?!?
 
-Switch branch (click on the "main" drop down box) and select the destination you'd like! Hopefully the names in the branches and folders should be helpful enough. If not, don't hesitate to contact me.
+Switch branch (click on the "readme" drop down box) and select the destination you'd like! Hopefully the names in the branches and folders should be helpful enough. If not, don't hesitate to contact me.
 
 ## Licensing
 
